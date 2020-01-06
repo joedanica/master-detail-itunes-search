@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ee3a99950ff099741322cf92e10d185e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\7456e68887df2d5f8190b91a2d3437e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\cf205b03013adc69e1233fe76e42502c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\42b87b095b86f7fcb90b15d26dde3dd9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1b08b83725ff9d038d08ccd6fcfbac3a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c57194c1d07fe1d603068c946f4be5b3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1e054d97e23718fa4bcf9e41296ef07\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b52a9de70c7cff12e98f953ed254b96e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\f27b7c6bb492d1d862b15e19de22773b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4068ab96b87d0fdec27a151d0f43f32a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\0124a83ea6dd280e1c678a545bc9a667\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9cd2f7557f44be902e9380563b4971f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1dd68ad03f1c980d0b670af02bf41a96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\57c8d232d383deaa08111fa9802ee7cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\3dca7c245989ad1c758d698defd11a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\19ddb9035775887e1459e367fd3d86dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a2924591fe661ba5bfe4bd5dc297980e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\eb29f81f6dfdfc3c95e0951c0252b5a0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5c3e859fda9c71a57d0f51d0510661c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\608a0e2dfa524eee8852174a4f1e4311\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a65ddcdd9ea80d85dead66e92251c195\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9266b2976e7a69402e948ed30f4a7ecf\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\8a09a0108acc9ad01be4a86d400903dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1a9f08570e95b29c3b86967b2d637ca\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5d0601280961ad6c27cb14373869b6ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\6db45d61aa7c0cbc0977d2987deb3ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\38d4a53439ae0ff042046017a28f5baf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4df8e8e91a1a946accf5fc3904fa4869\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b023eb9420a689f476a176bb2c4dbcde\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\48608cca93fb6e86b65cd7bd458f06c7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\2c50d95b18781a06269ca6913f57761d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ff5dd11d539a4da56e23a681ad5e793b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\dae1c2d8f9ce09462a7f850876f77e66\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:10:5-35:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ee3a99950ff099741322cf92e10d185e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ee3a99950ff099741322cf92e10d185e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1b08b83725ff9d038d08ccd6fcfbac3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1b08b83725ff9d038d08ccd6fcfbac3a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c57194c1d07fe1d603068c946f4be5b3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c57194c1d07fe1d603068c946f4be5b3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9266b2976e7a69402e948ed30f4a7ecf\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9266b2976e7a69402e948ed30f4a7ecf\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:13:9-50
+	android:icon
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.example.masterdetail.ItemDetailsActivity
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:16:9-18:68
+	android:theme
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:17:13-48
+activity#com.example.masterdetail.LoadingScreen
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.example.masterdetail.ItemListActivity
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:20:9-30:20
+	android:label
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:22:13-45
+	android:windowSoftInputMode
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:23:13-54
+	android:theme
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:21:13-45
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#preloaded_fonts
+ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:32:9-34:57
+	android:resource
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:34:13-54
+	android:name
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml:33:13-43
+uses-sdk
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ee3a99950ff099741322cf92e10d185e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ee3a99950ff099741322cf92e10d185e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\7456e68887df2d5f8190b91a2d3437e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\7456e68887df2d5f8190b91a2d3437e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\cf205b03013adc69e1233fe76e42502c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\cf205b03013adc69e1233fe76e42502c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\42b87b095b86f7fcb90b15d26dde3dd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\42b87b095b86f7fcb90b15d26dde3dd9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1b08b83725ff9d038d08ccd6fcfbac3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1b08b83725ff9d038d08ccd6fcfbac3a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c57194c1d07fe1d603068c946f4be5b3\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c57194c1d07fe1d603068c946f4be5b3\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1e054d97e23718fa4bcf9e41296ef07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1e054d97e23718fa4bcf9e41296ef07\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b52a9de70c7cff12e98f953ed254b96e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b52a9de70c7cff12e98f953ed254b96e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\f27b7c6bb492d1d862b15e19de22773b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\f27b7c6bb492d1d862b15e19de22773b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4068ab96b87d0fdec27a151d0f43f32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4068ab96b87d0fdec27a151d0f43f32a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\0124a83ea6dd280e1c678a545bc9a667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\0124a83ea6dd280e1c678a545bc9a667\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9cd2f7557f44be902e9380563b4971f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9cd2f7557f44be902e9380563b4971f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1dd68ad03f1c980d0b670af02bf41a96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\1dd68ad03f1c980d0b670af02bf41a96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\57c8d232d383deaa08111fa9802ee7cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\57c8d232d383deaa08111fa9802ee7cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\3dca7c245989ad1c758d698defd11a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\3dca7c245989ad1c758d698defd11a3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\19ddb9035775887e1459e367fd3d86dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\19ddb9035775887e1459e367fd3d86dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a2924591fe661ba5bfe4bd5dc297980e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a2924591fe661ba5bfe4bd5dc297980e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\eb29f81f6dfdfc3c95e0951c0252b5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\eb29f81f6dfdfc3c95e0951c0252b5a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5c3e859fda9c71a57d0f51d0510661c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5c3e859fda9c71a57d0f51d0510661c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\608a0e2dfa524eee8852174a4f1e4311\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\608a0e2dfa524eee8852174a4f1e4311\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a65ddcdd9ea80d85dead66e92251c195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a65ddcdd9ea80d85dead66e92251c195\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\c0e4f199957eb02204b4c91aa1cecae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9266b2976e7a69402e948ed30f4a7ecf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\9266b2976e7a69402e948ed30f4a7ecf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\8a09a0108acc9ad01be4a86d400903dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\8a09a0108acc9ad01be4a86d400903dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1a9f08570e95b29c3b86967b2d637ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\a1a9f08570e95b29c3b86967b2d637ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5d0601280961ad6c27cb14373869b6ca\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\5d0601280961ad6c27cb14373869b6ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\6db45d61aa7c0cbc0977d2987deb3ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\6db45d61aa7c0cbc0977d2987deb3ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\38d4a53439ae0ff042046017a28f5baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\38d4a53439ae0ff042046017a28f5baf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4df8e8e91a1a946accf5fc3904fa4869\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\4df8e8e91a1a946accf5fc3904fa4869\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b023eb9420a689f476a176bb2c4dbcde\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\b023eb9420a689f476a176bb2c4dbcde\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\48608cca93fb6e86b65cd7bd458f06c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\48608cca93fb6e86b65cd7bd458f06c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\2c50d95b18781a06269ca6913f57761d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\2c50d95b18781a06269ca6913f57761d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ff5dd11d539a4da56e23a681ad5e793b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\ff5dd11d539a4da56e23a681ad5e793b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\dae1c2d8f9ce09462a7f850876f77e66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MSI RAIDER\.gradle\caches\transforms-2\files-2.1\dae1c2d8f9ce09462a7f850876f77e66\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MSI RAIDER\Desktop\MasterDetail\app\src\main\AndroidManifest.xml

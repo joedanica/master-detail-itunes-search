@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "image": "@drawable/placeholders_1.png"
+    },
+    {
+      "image": "@drawable/placeholders_2.png"
+    },
+    {
+      "image": "@drawable/placeholders_3.png"
+    },
+    {
+      "image": "@drawable/placeholders_4.png"
+    },
+    {
+      "image": "@drawable/placeholders_5.png"
+    }
+  ]
+}
